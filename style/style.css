@@ -2223,8 +2223,8 @@ input {
     .photo{
         width: 200px;
     }
-    .info{
-        width: 100%;
+    .infoProf{
+        width: 90% !important;
     }
     .infoProf{
         width: 50%;
